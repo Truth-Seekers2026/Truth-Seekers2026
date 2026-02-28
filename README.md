@@ -9,7 +9,8 @@ I initiate and maintain projects that translate ancient Eastern wisdom into acti
 ## 🧭 Current Core Project: The Open-Source Spiritual Protocol
 
 ### **The *Truth-Seekers-Charter《有道者法则》* Repository**
-> *"Who can have a surplus and dedicate it to the world? Only a Truth-Seeker."*
+> *孰能有余以奉天下？唯有道者。*  
+> *"Who can have a surplus and dedicate it to the world? Only Truth-Seekers."*
 
 This repository is the home for the **[Truth-Seekers-Charter](https://github.com/Truth-Seekers2026/Truth-Seekers-Charter)** (《有道者法则》), an open-source ethical framework rooted in the wisdom of the *Tao Te Ching《道德经》*. It proposes: **The Way of Heaven (*Tian Dao天道*) is to care呵护, and the Virtue of Earth (*Di De地德*) is to sustain供养.** The mission of a Truth-Seekers有道者 is to have a surplus and dedicate it to the world.
 
