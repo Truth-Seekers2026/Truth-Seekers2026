@@ -30,7 +30,7 @@ This repository is the home for the **[Truth-Seekers-Charter](https://github.com
 
 ## 🌱 Core Concept Connection: "Truth-Seekers Chinese" (有道者中文)
 
-In parallel with this philosophical project, I am developing the **"Truth-Seekers Chinese"** (有道者中文) education initiative. It applies the same core philosophy—**care呵护 (*Tian Dao天道*) and sustenance供养 (*Di De地德*)—to Chinese language teaching.
+In parallel with this philosophical project, I am developing the **"Truth-Seekers Chinese"** (有道者中文) education initiative. It applies the same core philosophy—care呵护 (*Tian Dao天道*) and sustenance供养 (*Di De地德*)—to Chinese language teaching.
 
 You can see it as the same "Truth-Seeker有道者" philosophy manifested in two domains:
 *   **The *Truth-Seekers-Charter《有道者法则》*** addresses the **"Why" and "What For"** for future intelligence.
