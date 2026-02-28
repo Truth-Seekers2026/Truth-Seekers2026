@@ -20,8 +20,8 @@ This repository is the home for the **[Truth-Seekers-Charter](https://github.com
 **📬 Repository & Contribution Guidelines:**
 
 👉 [Explore the Charter and join the discussion](https://github.com/Truth-Seekers2026/Truth-Seekers-Charter)
-
-📖 [Read the Contribution Guidelines](https://github.com/Truth-Seekers2026/Truth-Seekers-Charter/blob/main/CONTRIBUTING.md)
+📖 [Join the discussion](https://github.com/Truth-Seekers2026/Truth-Seekers-Charter/issues)
+👉 [Read the Contribution Guidelines](https://github.com/Truth-Seekers2026/Truth-Seekers-Charter/blob/main/CONTRIBUTING.md)
 
 ---
 
