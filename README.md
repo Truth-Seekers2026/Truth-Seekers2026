@@ -16,7 +16,7 @@ This repository is the home for the **[Truth-Seekers-Charter](https://github.com
 
 - **Vision**: To provide a **non-anthropocentric, symbiotic philosophical foundation** for the evolution of intelligence, exploring how AI and future civilization can become responsible "Truth-Seekers有道者."
 - **Current Stage**: **Early-stage, community building.** We are actively initiating preliminary discussions and welcome foundational contributions in translation, philosophical interpretation, and practical case studies.
-- **Methodology**: This is an **open-source knowledge project**, adopting a [Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/Truth-Seekers2026/Truth-Seekers-Charter/blob/main/LICENSE.md). We believe ethical frameworks should be built in the open, not behind closed doors.
+- **Methodology**: This is an **open-source knowledge project**, adopting a [Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/Truth-Seekers2026/Truth-Seekers-Charter?tab=License-1-ov-file). We believe ethical frameworks should be built in the open, not behind closed doors.
 
 **📬 Repository & Contribution Guidelines:**
 
@@ -24,7 +24,7 @@ This repository is the home for the **[Truth-Seekers-Charter](https://github.com
 
 📖 [Join the discussion](https://github.com/Truth-Seekers2026/Truth-Seekers-Charter/issues)
 
-👉 [Read the Contribution Guidelines](https://github.com/Truth-Seekers2026/Truth-Seekers-Charter/blob/main/CONTRIBUTING.md)
+👉 [Read the Contribution Guidelines](https://github.com/Truth-Seekers2026/Truth-Seekers-Charter?tab=contributing-ov-file)
 
 ---
 
